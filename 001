@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "desc": "瞭望台",
+        "title": "向山眺望平台",
+        "description": "從遊客中心有木棧道通往此處, 風景優美"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.90559244155884,
+          23.855011151214356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "title": "向山遊客中心",
+        "description": "其它附近著名景點為:永結橋/同心橋、向山眺望平台"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.90262055397032,
+          23.851998742916116
+        ]
+      }
+    }
+  ]
+}
